@@ -34,8 +34,11 @@
 ## 📂 Featured Projects
 
 - 🤖 [**Assistente Educacional Gemini**](https://github.com/jfdt10/assistente-educacional-gemini) — AI-powered educational assistant
+- 🧠 [**Natural Deduction Tutor**](https://github.com/jfdt10/NaturalDeductionTutor) — Interactive system for learning natural deduction in logic
+- 🧮 [**Tutor de Equivalência Lógica**](https://github.com/jfdt10/Tutor-de-equivalencia-logica) — Logic equivalence tutoring system
+- 💪 [**Fitness App OO**](https://github.com/jfdt10/Projeto_Software_OO_Fitness_App) — Object-oriented fitness application
+- 🔗 [**Estrutura de Dados AB2**](https://github.com/jfdt10/Projeto_Estrutura_De_Dados_AB2) — Data structures implementation project
 - 🏗️ [**Refatoração & Design Patterns**](https://github.com/jfdt10/Refatoracao-Design-Patterns-Projeto-Software) — Software engineering best practices
-- 🧠 [**Tutor de Equivalência Lógica**](https://github.com/jfdt10/Tutor-de-equivalencia-logica) — Interactive logic tutoring system
 - 📊 [**Probabilidade e Estatística**](https://github.com/jfdt10/Probabilidade_Estatistica_AB1.1-Analise-Exploratoria-de-Dados) — Exploratory data analysis
 - ❤️ [**Heart Diseases ML**](https://github.com/ronerog/Heart-Diseases-ML) — Machine learning for heart disease prediction
 
