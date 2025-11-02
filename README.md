@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jean Felipe Duarte Tenorio</h1>
+<h1 align="center">Hi 👋, I'm Jean Felipe Duarte Tenório</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Finance+Graduate;Exploring+Intelligent+Systems;Building+and+Learning" alt="Typing SVG" />
