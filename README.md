@@ -21,13 +21,19 @@
 
 ---
 
-## 🌱 Learning & Tools
+## 💻 Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,nodejs,express,r,git,github,vscode&theme=dark" />
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,c,r,mysql,git,github,vscode&theme=dark" /> 
 </p>
 
-**Currently Learning:** Python • C • HTML • CSS • JavaScript • Node.js • Express • R • AI fundamentals • IoT • DevOps
+## 🌱 Currently Learning & Tools
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,html,css,js,nodejs,express,mysql,linux,docker&theme=dark" /> 
+</p>
+
+**Focus Areas: AI Fundamentals • IoT • DevOps**
 
 ---
 
