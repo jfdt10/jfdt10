@@ -90,11 +90,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfdt10&show_icons=true&theme=tokyonight" alt="Jean's GitHub stats" />
+  <img src="https://github-readme-stats-mauve-delta-80.vercel.app/api?username=jfdt10&show_icons=true&theme=tokyonight" alt="Jean's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfdt10&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-mauve-delta-80.vercel.app/api/top-langs/?username=jfdt10&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
