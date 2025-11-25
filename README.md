@@ -30,7 +30,7 @@
 ## 🌱 Currently Learning & Tools
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,html,css,js,nodejs,express,mysql,linux,docker&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,html,css,js,react,vite,tailwindcss,nodejs,express,nestjs,postgresql,linux,docker&theme=dark" /> 
 </p>
 
 **Focus Areas: AI Fundamentals • IoT • DevOps**
@@ -47,6 +47,7 @@
 - 🏗️ [**Refatoração & Design Patterns**](https://github.com/jfdt10/Refatoracao-Design-Patterns-Projeto-Software) — Software engineering best practices
 - 📊 [**Probabilidade e Estatística**](https://github.com/jfdt10/Probabilidade_Estatistica_AB1.1-Analise-Exploratoria-de-Dados) — Exploratory data analysis
 - ❤️ [**Heart Diseases ML**](https://github.com/ronerog/Heart-Diseases-ML) — Machine learning for heart disease prediction
+- 🧭 🤖 [**Navigation Robot System**](https://github.com/jfdt10/Sistema_Navegacao_Robo) — A complete path-planning system for autonomous robots operating in 2D environments with obstacles using graph concepts.
 
 ---
 
