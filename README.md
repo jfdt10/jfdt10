@@ -24,13 +24,13 @@
 ## 💻 Skills
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,c,r,mysql,git,github,vscode&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,c,js,r,postgresql,git,github,vscode&theme=dark" /> 
 </p>
 
 ## 🌱 Currently Learning & Tools
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,html,css,js,angular,tailwindcss,nodejs,express,nestjs,postgresql,linux,docker&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=python,sklearn,html,css,tailwindcss,js,ts,angular,nodejs,express,nestjs,postgresql,linux,docker&theme=dark" /> 
 </p>
 
 **Focus Areas: AI Fundamentals • IoT • DevOps**
