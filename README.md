@@ -30,7 +30,7 @@
 ## 🌱 Currently Learning & Tools
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,html,css,js,react,vite,tailwindcss,nodejs,express,nestjs,postgresql,linux,docker&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,html,css,js,angular,tailwindcss,nodejs,express,nestjs,postgresql,linux,docker&theme=dark" /> 
 </p>
 
 **Focus Areas: AI Fundamentals • IoT • DevOps**
