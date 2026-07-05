@@ -1,62 +1,67 @@
 <h1 align="center">Hi 👋, I'm Jean Felipe Duarte Tenório</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Finance+Graduate;Exploring+Intelligent+Systems;Building+and+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+%26+ML+Engineer;Exploring+Intelligent+Systems;Building+Robust+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧩 About Me
 
-🎓 **Computer Engineering student** at *UFAL* and **Finance graduate** from *Estácio de Sá University (2024)*
+🎓 **Computer Engineering student** at *UFAL* and **Finance graduate** (2024).
 
-💡 Passionate about technology and its potential to solve real-world problems through **intelligent systems** and **data-driven solutions**
+💡 Passionate about building robust, scalable architectures by combining **Full Stack Web Development** with **Applied Artificial Intelligence** to solve real-world problems.
 
-🧠 **Research Assistant:**  
-> Development of an Intelligent System for Therapeutic Conduct Definition in Patients with Mineral and Bone Disorders from Chronic Kidney Disease (DMO-CKD)
+🧠 **Machine Learning Engineer & Researcher (PIBITI):**  
+> Developed **DMO-DRC**, an Intelligent Clinical Decision Support System featuring a hybrid architecture (Rules Engine + Machine Learning + Fuzzy Logic). Engineered the pipeline using **FastAPI**, **Scikit-Learn**, **Docker**, **Pytest**, and **Locust** for performance testing (p95 metrics).
 
-🤖 **Volunteer** at **OrionLab** — participating in a Machine Learning study group
-
-🎯 Currently working on **AI-powered educational assistants** to help students learn logic and programming
+💻 **Full Stack Developer:**
+> Experienced in end-to-end web product development during **Residência TIC BRISA**, building high-performance APIs, dynamic frontends, and database optimization using **TypeScript**, **Prisma ORM** & **PostgreSQL**.
 
 ---
 
-## 💻 Skills
+## 🛠️ Tech Stack & Ecosystem
 
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,sklearn,anaconda,c,js,r,postgresql,git,github,vscode&theme=dark" /> 
+### 💻 Full Stack Web Development
+<p left="center"> 
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,html,css,tailwindcss,postgresql&theme=dark" /> 
 </p>
 
-## 🌱 Currently Learning & Tools
-
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,sklearn,html,css,tailwindcss,js,ts,angular,nodejs,express,nestjs,postgresql,linux,docker&theme=dark" /> 
+### 🤖 Data Science & Machine Learning
+<p left="center"> 
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,anaconda,r&theme=dark" /> 
 </p>
 
-**Focus Areas: AI Fundamentals • IoT • DevOps**
+### 🗄️ Infrastructure, DevOps & Tools
+<p left="center"> 
+  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,git,github,vscode&theme=dark" /> 
+</p>
+
+**Focus Areas: Architecture Design • FastAPI • Cloudflare • CI/CD (GitHub Actions) • Automated Testing (Pytest, Locust)**
 
 ---
 
 ## 📂 Featured Projects
 
-- 🤖 [**Assistente Educacional Gemini**](https://github.com/jfdt10/assistente-educacional-gemini) — AI-powered educational assistant
-- 🧠 [**Natural Deduction Tutor**](https://github.com/jfdt10/NaturalDeductionTutor) — Interactive system for learning natural deduction in logic
-- 🧮 [**Tutor de Equivalência Lógica**](https://github.com/jfdt10/Tutor-de-equivalencia-logica) — Logic equivalence tutoring system
-- 💪 [**Fitness App OO**](https://github.com/jfdt10/Projeto_Software_OO_Fitness_App) — Object-oriented fitness application
-- 🔗 [**Estrutura de Dados AB2**](https://github.com/jfdt10/Projeto_Estrutura_De_Dados_AB2) — Data structures implementation project
-- 🏗️ [**Refatoração & Design Patterns**](https://github.com/jfdt10/Refatoracao-Design-Patterns-Projeto-Software) — Software engineering best practices
-- 📊 [**Probabilidade e Estatística**](https://github.com/jfdt10/Probabilidade_Estatistica_AB1.1-Analise-Exploratoria-de-Dados) — Exploratory data analysis
-- ❤️ [**Heart Diseases ML**](https://github.com/ronerog/Heart-Diseases-ML) — Machine learning for heart disease prediction
+### 🧠 Intelligence & Data Science
 - 🧭 🤖 [**Navigation Robot System**](https://github.com/jfdt10/Sistema_Navegacao_Robo) — A complete path-planning system for autonomous robots operating in 2D environments with obstacles using graph concepts.
+- ❤️ [**Heart Diseases ML**](https://github.com/ronerog/Heart-Diseases-ML) — End-to-end Machine Learning pipeline for heart disease prediction using the UCI dataset (EDA, preprocessing, and classifier evaluation).
+- 📊 [**Probabilidade e Estatística**](https://github.com/jfdt10/Probabilidade_Estatistica_AB1.1-Analise-Exploratoria-de-Dados) — Exploratory data analysis and statistical processing.
+
+### 🌐 Full Stack & Intelligent Systems
+- 🤖 [**Assistente Educacional Gemini**](https://github.com/jfdt10/assistente-educacional-gemini) — AI-powered educational assistant leveraging LLMs for personalized logic learning.
+- 🧠 [**Natural Deduction Tutor**](https://github.com/jfdt10/NaturalDeductionTutor) — Interactive tutoring system for learning natural deduction in logic.
+- 🧮 [**Tutor de Equivalência Lógica**](https://github.com/jfdt10/Tutor-de-equivalencia-logica) — Intelligent logic equivalence tutoring system.
+- 🏗️ [**Refatoração & Design Patterns**](https://github.com/jfdt10/Refatoracao-Design-Patterns-Projeto-Software) — Hands-on implementation of software engineering best practices and architectural patterns.
 
 ---
 
-## 💬 Interests
+## 💬 Core Interests
 
-- Artificial Intelligence & Machine Learning
-- Educational Technology
-- Software Development & Automation
-- Logic & Problem-Solving
+- Artificial Intelligence, Hybrid Systems & XAI (Explainable AI)
+- Scalable Web Architectures & Backend Engineering
+- DevOps, Containerization & CI/CD Pipelines
+- Data Engineering & Optimization
 
 ---
 
@@ -96,7 +101,6 @@
 <p align="center">
   <img src="https://github-readme-stats-mauve-delta-80.vercel.app/api/top-langs/?username=jfdt10&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 ---
 
