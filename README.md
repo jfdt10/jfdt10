@@ -8,7 +8,7 @@
 
 ## 🧩 About Me
 
-🎓 **Computer Engineering student** at *UFAL* and **Finance graduate** (2024).
+🎓 **Computer Engineering student** at *UFAL* and **Finance graduate** (2023).
 
 💡 Passionate about building robust, scalable architectures by combining **Full Stack Web Development** with **Applied Artificial Intelligence** to solve real-world problems.
 
