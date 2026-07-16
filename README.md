@@ -13,7 +13,7 @@
 💡 Passionate about building robust, scalable architectures by combining **Full Stack Web Development** with **Applied Artificial Intelligence** to solve real-world problems.
 
 🧠 **Machine Learning Engineer & Researcher (PIBITI):**  
-> Developed **DMO-DRC**, an Intelligent Clinical Decision Support System featuring a hybrid architecture (Rules Engine + Machine Learning + Fuzzy Logic). Engineered the pipeline using **FastAPI**, **Scikit-Learn**, **Docker**, **Pytest**, and **Locust** for performance testing (p95 metrics).
+> Developed an Intelligent Clinical Decision Support System featuring a hybrid architecture (Rules Engine + Machine Learning + Fuzzy Logic). Engineered the pipeline using **FastAPI**, **Scikit-Learn**, **Docker**, **Pytest**, and **Locust** for performance testing (p95 metrics).
 
 💻 **Full Stack Developer:**
 > Experienced in end-to-end web product development during **Residência TIC BRISA**, building high-performance APIs, dynamic frontends, and database optimization using **TypeScript**, **Prisma ORM** & **PostgreSQL**.
