@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean Felipe Duarte Tenório</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+%26+ML+Engineer;Exploring+Intelligent+Systems;Building+Robust+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+%26+ML+Explorer;Building+Solutions+with+Code;Constantly+Learning+Fundamentals" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,70 +10,73 @@
 
 🎓 **Computer Engineering student** at *UFAL* and **Finance graduate** (2024).
 
-💡 Passionate about building robust, scalable architectures by combining **Full Stack Web Development** with **Applied Artificial Intelligence** to solve real-world problems.
+💡 Passionate about software engineering and applied AI. Currently focused on building robust backends and learning how to design efficient systems that solve real-world problems.
 
-🧠 **Machine Learning Engineer & Researcher (PIBITI):**  
-> Developed an Intelligent Clinical Decision Support System featuring a hybrid architecture (Rules Engine + Machine Learning + Fuzzy Logic). Engineered the pipeline using **FastAPI**, **Scikit-Learn**, **Docker**, **Pytest**, and **Locust** for performance testing (p95 metrics).
+🧠 **Machine Learning & Research (PIBITI):**
+> Working on a clinical decision support system. Focused on pipeline automation and data reliability using **FastAPI**, **Scikit-Learn**, **Docker**, and **Pytest**.
 
-💻 **Full Stack Developer:**
-> Experienced in end-to-end web product development during **Residência TIC BRISA**, building high-performance APIs, dynamic frontends, and database optimization using **TypeScript**, **Prisma ORM** & **PostgreSQL**.
+💻 **Full Stack Development:**
+> Gained hands-on experience during **Residência TIC BRISA**, developing web application with **TypeScript**, **NestJS**, **Prisma ORM**, and **PostgreSQL**.
 
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
 
-### 💻 Full Stack Web Development
-<p left="center"> 
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,html,css,tailwindcss,postgresql&theme=dark" /> 
+### 💻 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,html,css,postgresql&theme=dark" /> 
 </p>
 
-### 🤖 Data Science & Machine Learning
-<p left="center"> 
-  <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,anaconda,r&theme=dark" /> 
+### 🤖 Data & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,anaconda&theme=dark" /> 
 </p>
 
-### 🗄️ Infrastructure, DevOps & Tools
-<p left="center"> 
+### 🗄️ Infrastructure & Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,docker,linux,git,github,vscode&theme=dark" /> 
 </p>
 
-**Focus Areas: Architecture Design • FastAPI • Cloudflare • CI/CD (GitHub Actions) • Automated Testing (Pytest, Locust)**
+**Core Competencies: FastAPI • PostgreSQL • Docker • CI/CD (GitHub Actions) • Automated Testing**
+
+---
+
+## 📖 Learning Journey
+*Currently deepening my knowledge in:*
+- ⚙️ **Computer Science Fundamentals**: Algorithms & Data Structures.
+- 💾 **Database Internals**: Understanding PostgreSQL architecture.
+- 🚀 **Software Engineering**: Design Patterns and Clean Code practices.
 
 ---
 
 ## 📂 Featured Projects
 
-### 🧠 Intelligence & Data Science
-- 🧭 🤖 [**Navigation Robot System**](https://github.com/jfdt10/Sistema_Navegacao_Robo) — A complete path-planning system for autonomous robots operating in 2D environments with obstacles using graph concepts.
-- ❤️ [**Heart Diseases ML**](https://github.com/ronerog/Heart-Diseases-ML) — End-to-end Machine Learning pipeline for heart disease prediction using the UCI dataset (EDA, preprocessing, and classifier evaluation).
-- 📊 [**Probabilidade e Estatística**](https://github.com/jfdt10/Probabilidade_Estatistica_AB1.1-Analise-Exploratoria-de-Dados) — Exploratory data analysis and statistical processing.
+### 🧠 Data Science & AI
+- 🧭 🤖 [**Navigation Robot System**](https://github.com/jfdt10/Sistema_Navegacao_Robo) — Path-planning system for 2D environments using graph concepts.
+- ❤️ [**Heart Diseases ML**](https://github.com/ronerog/Heart-Diseases-ML) — End-to-end ML pipeline for health prediction (EDA, preprocessing, and model evaluation).
 
-### 🌐 Full Stack & Intelligent Systems
-- 🤖 [**Assistente Educacional Gemini**](https://github.com/jfdt10/assistente-educacional-gemini) — AI-powered educational assistant leveraging LLMs for personalized logic learning.
-- 🧠 [**Natural Deduction Tutor**](https://github.com/jfdt10/NaturalDeductionTutor) — Interactive tutoring system for learning natural deduction in logic.
-- 🧮 [**Tutor de Equivalência Lógica**](https://github.com/jfdt10/Tutor-de-equivalencia-logica) — Intelligent logic equivalence tutoring system.
-- 🏗️ [**Refatoração & Design Patterns**](https://github.com/jfdt10/Refatoracao-Design-Patterns-Projeto-Software) — Hands-on implementation of software engineering best practices and architectural patterns.
+### 🌐 Full Stack & Logic
+- 🤖 [**Assistente Educacional Gemini**](https://github.com/jfdt10/assistente-educacional-gemini) — AI-powered assistant leveraging LLMs for personalized logic learning.
+- 🧠 [**Natural Deduction Tutor**](https://github.com/jfdt10/NaturalDeductionTutor) — Interactive tutoring system for logic students.
+- 🏗️ [**Refatoração & Design Patterns**](https://github.com/jfdt10/Refatoracao-Design-Patterns-Projeto-Software) — Hands-on implementation of best practices in software design.
 
 ---
 
 ## 💬 Core Interests
-
-- Artificial Intelligence, Hybrid Systems & XAI (Explainable AI)
-- Scalable Web Architectures & Backend Engineering
-- DevOps, Containerization & CI/CD Pipelines
-- Data Engineering & Optimization
+- Artificial Intelligence & Machine Learning
+- Backend Engineering & Web Architectures
+- DevOps & Automated Pipelines
+- Data Engineering
 
 ---
 
 ## ✝️ Faith & Focus
-
 > *"In the world ye shall have tribulation: but be of good cheer; I have overcome the world."*  
 > — John 16:33
 
 ---
 
 ## 📫 Connect with Me
-
 <p align="center">
   <a href="https://linkedin.com/in/jean-felipe-duarte-tenorio" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -103,7 +106,3 @@
 </p>
 
 ---
-
-<p align="center">
-  ⭐ <i>"Exploring technology, one project at a time."</i>
-</p>
