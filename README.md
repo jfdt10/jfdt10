@@ -1,82 +1,135 @@
 <h1 align="center">Hi 👋, I'm Jean Felipe Duarte Tenório</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+%26+ML+Explorer;Building+Solutions+with+Code;Constantly+Learning+Fundamentals" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full+Stack+Developer;FastAPI+%7C+PostgreSQL+%7C+Docker;Building+Solutions+with+Code" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧩 About Me
 
-🎓 **Computer Engineering student** at *UFAL* and **Finance graduate** (2024).
+🎓 **Computer Engineering student** at **UFAL** and **Finance graduate** (2024).
 
-💡 Passionate about software engineering and applied AI. Currently focused on building robust backends and learning how to design efficient systems that solve real-world problems.
+💡 Passionate about **Full Stack Development**, **Software Engineering**, and **Applied Artificial Intelligence**. I enjoy building web applications, designing REST APIs, and developing intelligent solutions for real-world problems.
 
-🧠 **Machine Learning & Research (PIBITI):**
-> Working on a clinical decision support system. Focused on pipeline automation and data reliability using **FastAPI**, **Scikit-Learn**, **Docker**, and **Pytest**.
+🧠 **Machine Learning Research (PIBITI)**
 
-💻 **Full Stack Development:**
-> Gained hands-on experience during **Residência TIC BRISA**, developing web application with **TypeScript**, **NestJS**, **Prisma ORM**, and **PostgreSQL**.
+> Developing a clinical decision support system using **FastAPI**, **SQLAlchemy**, **PostgreSQL**, **FPDF2**, **Docker**, **Pytest**, and **Scikit-Learn** for backend APIs, ETL pipelines, data persistence, automated report generation, and machine learning inference.
+
+💻 **Full Stack Development**
+
+> Gained hands-on experience during **Residência TIC BRISA**, developing full stack web applications using **TypeScript**, **NestJS**, **Prisma ORM**, **PostgreSQL**, and **Docker**.
 
 ---
+
+## 💼 Professional Experience
+
+- 🔬 **PIBITI Researcher – UFAL** *(2025 – Present)* — Developing backend APIs with FastAPI, SQLAlchemy, PostgreSQL, ETL pipelines, automated PDF generation, and Machine Learning.
+
+- 🏛️ **Systems Development Fellow – NTI UFAL** *(2026 – Present)* — Technical support, systems development, bug investigation, requirements analysis, and documentation.
+
+- 💻 **Full Stack Developer – Residência TIC BRISA** *(2025 – 2026)* — Developed full stack applications with TypeScript, NestJS, PostgreSQL, Prisma ORM, Docker, and cloud deployment.
+
+  
 
 ## 🛠️ Tech Stack & Ecosystem
 
-### 💻 Web Development
+### 💻 Full stack Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,html,css,postgresql&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,html,css,postgresql&theme=dark" />
 </p>
 
 ### 🤖 Data & AI
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,anaconda&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,anaconda&theme=dark" />
 </p>
 
 ### 🗄️ Infrastructure & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,git,github,vscode&theme=dark" /> 
+  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,git,github,vscode&theme=dark" />
 </p>
 
-**Core Competencies: FastAPI • PostgreSQL • Docker • CI/CD (GitHub Actions) • Automated Testing**
+**Core Competencies**
+
+FastAPI • TypeScript • JavaScript • SQLAlchemy • PostgreSQL • Docker • REST APIs • Automated Testing
 
 ---
 
-## 📖 Learning Journey
-*Currently deepening my knowledge in:*
-- ⚙️ **Computer Science Fundamentals**: Algorithms & Data Structures.
-- 💾 **Database Internals**: Understanding PostgreSQL architecture.
-- 🚀 **Software Engineering**: Design Patterns and Clean Code practices.
+## 🎯 Current Technical Focus
+
+- ⚙️ Algorithms & Data Structures
+- 🏗️ Software Architecture & Design Patterns
+- 🗄️ PostgreSQL Internals
+- 🐳 Docker & Linux
+- 🤖 Machine Learning Systems
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🧠 Data Science & AI
-- 🧭 🤖 [**Navigation Robot System**](https://github.com/jfdt10/Sistema_Navegacao_Robo) — Path-planning system for 2D environments using graph concepts.
-- ❤️ [**Heart Diseases ML**](https://github.com/ronerog/Heart-Diseases-ML) — End-to-end ML pipeline for health prediction (EDA, preprocessing, and model evaluation).
 
-### 🌐 Full Stack & Logic
-- 🤖 [**Assistente Educacional Gemini**](https://github.com/jfdt10/assistente-educacional-gemini) — AI-powered assistant leveraging LLMs for personalized logic learning.
-- 🧠 [**Natural Deduction Tutor**](https://github.com/jfdt10/NaturalDeductionTutor) — Interactive tutoring system for logic students.
-- 🏗️ [**Refatoração & Design Patterns**](https://github.com/jfdt10/Refatoracao-Design-Patterns-Projeto-Software) — Hands-on implementation of best practices in software design.
+- 🧭 🤖 [**Navigation Robot System**](https://github.com/jfdt10/Sistema_Navegacao_Robo) — Path-planning system for 2D environments using graph concepts.
+- ❤️ [**Heart Diseases ML**](https://github.com/ronerog/Heart-Diseases-ML) — End-to-end machine learning pipeline for health prediction, including EDA, preprocessing, feature engineering, and model evaluation.
+
+### 🌐 Backend & Full Stack
+
+- 🤖 [**Assistente Educacional Gemini**](https://github.com/jfdt10/assistente-educacional-gemini) — AI-powered educational assistant leveraging LLMs for personalized logic learning.
+- 🧠 [**Natural Deduction Tutor**](https://github.com/jfdt10/NaturalDeductionTutor) — Interactive tutoring platform for teaching Natural Deduction.
+- 🏗️ [**Refatoração & Design Patterns**](https://github.com/jfdt10/Refatoracao-Design-Patterns-Projeto-Software) — Practical implementation of software design principles and design patterns.
 
 ---
 
+## 🔒 Research Projects
+
+### Clinical Decision Support System *(Private Repository)*
+
+Full stack clinical decision support system integrating machine learning models for prediction and automated medical report generation.
+
+**Tech Stack**
+
+- Next.js
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Docker
+- FPDF2
+- Pytest
+- Scikit-Learn
+
+**Highlights**
+
+- REST API for machine learning inference
+- Responsive frontend built with Next.js
+- ETL pipeline for clinical data
+- Relational database modeling with SQLAlchemy
+- Automated PDF report generation
+- Automated testing
+
+> Source code is private due to ongoing academic research.
+
 ## 💬 Core Interests
+
+- Backend Engineering
+- Software Architecture
 - Artificial Intelligence & Machine Learning
-- Backend Engineering & Web Architectures
-- DevOps & Automated Pipelines
 - Data Engineering
+- DevOps & Automation
 
 ---
 
 ## ✝️ Faith & Focus
+
 > *"In the world ye shall have tribulation: but be of good cheer; I have overcome the world."*  
 > — John 16:33
 
 ---
 
 ## 📫 Connect with Me
+
 <p align="center">
   <a href="https://linkedin.com/in/jean-felipe-duarte-tenorio" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
